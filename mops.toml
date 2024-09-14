@@ -1,0 +1,9 @@
+[dependencies]
+base = "0.12.1"
+icrc1 = "0.0.2"
+
+[package]
+name = "token"
+version = "0.0.2"
+description = "Token backend"
+repository= "https://github.com/beckynayere/token"
